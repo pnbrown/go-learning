@@ -1,3 +1,5 @@
 # Learning Go
+I am studying and writing code to finally learn Go.
 
-## Starting with The Go Programming Language by Donovan and Kernighan
+## Resources 
+- [The Go Programming Language by Donovan and Kernighan](http://www.gopl.io)
